@@ -1,0 +1,25 @@
+<!doctype html>
+<html long = "pt-br">
+        <head>
+                <meta charset = "utf - 8">
+                <link rel = "Stylesheet" type = "text/css" href = "aula02.css">
+
+        </head>
+        <body>
+               <head>
+              <h1> CEEMTI BAIXO GUANDU </h1>
+               </head>
+
+              <img src= "file:///D:/Meus%20Documentos/Aluno/Desktop/Jo%C3%A3o%20Vin%C3%ADcius%20e%20Eduardo%20Santos%203%C2%B0ipi/Logo%20Escola.png"
+
+               <head>
+              <h1> PWD </h1>
+               </head>
+              
+ 
+               <footer>
+              <p> João Vinícius </p> 
+               </footer>
+        </body>
+</html>
+       
